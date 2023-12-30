@@ -1,6 +1,6 @@
 
 import tkinter as tk
-
+#랜타디 애드온
 class UnitTrackerApp:
     def __init__(self, frame, quest_name, unit_names, column_titles):
         self.frame = frame
